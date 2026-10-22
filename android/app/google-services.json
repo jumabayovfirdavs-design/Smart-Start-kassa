@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840224953261",
+    "project_id": "smart-start-kassa",
+    "storage_bucket": "smart-start-kassa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840224953261:android:b30c2aaf48eea85ec30724",
+        "android_client_info": {
+          "package_name": "com.example.smart_kassa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7px8-Nt2guLnOzUAwk5OuEF6_8mtLVww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
